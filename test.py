@@ -13,6 +13,9 @@ def est_trie(tableau):
 
 def inverser_tableau(tableau):
     return tableau[::-1]
+def inverser_tableau(tableau):
+    return tableau[::-1]
+
 
 
 
