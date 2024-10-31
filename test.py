@@ -11,10 +11,7 @@ def moyenne_et_minimum(tableau):
 def est_trie(tableau):
     return tableau == sorted(tableau)
 
-def inverser_tableau(tableau):
-    return tableau[::-1]
-def inverser_tableau(tableau):
-    return tableau[::-1]
+
 
 
 
